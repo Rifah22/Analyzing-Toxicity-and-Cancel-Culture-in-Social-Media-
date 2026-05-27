@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/Web_Scraping-FF6B35?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/LDA_Topic_Modeling-8A2BE2?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AIUB-003580?style=for-the-badge&logoColor=white"/>
 </p>
 
 > A final-term data science project using R to analyze toxic language and cancel culture discourse across 63 web-scraped articles, applying LDA topic modeling to uncover 7 dominant themes in online cancel culture narratives.
